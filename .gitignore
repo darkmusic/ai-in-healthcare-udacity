@@ -1,0 +1,6 @@
+*.zip
+.ipynb_checkpoints
+__pycache__/
+*.h5
+**/*.pth
+**/my_model.json
